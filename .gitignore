@@ -1,0 +1,9 @@
+venv/
+Chromedriver/
+.idea/
+
+*.png
+*.csv
+*.xls
+*.xlsm
+*.xlsx
